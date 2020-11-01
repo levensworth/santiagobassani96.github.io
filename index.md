@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Santiago Bassani
 
-You can use the [editor on GitHub](https://github.com/santiagobassani96/levensworth.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Currently studying as the technological institute of Buenos Aires, Argentina. I'm applying for the Master in Software engineering. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**MOTO**
 ```
+-> Hone my skills at developing solutions to real world problems using the most suitable tools for the job.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-> Fall in love with the problem not the solution, obvession with it can bring you one step closer to the truth.
+```
+### Interests
+- Graph Neural Nets 
+- Neuro Evolutionary Adaptative topology systems
+- :rocket:  Machine Learning pipelines
+- :book:  Recommendation systems 
+- :hospital:  Bio Informatics
 
-### Jekyll Themes
+### Experience
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/santiagobassani96/levensworth.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Currently working as a Machine Learning intern at ![Salesforce](https://c1.sfdcstatic.com/content/dam/sfdc-docs/www/resources/campaign-assets/9-reasons/images/salesforce-logo-cloud.png)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
